@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: black;
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#root{
+    margin: 0px 24px;
+    position: relative; /*todo es relativo al contenedor, nada sale del contenedor siempre el padre debe ser relative*/
+    min-height: 100vh;
+}
+

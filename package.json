@@ -32,8 +32,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/Dukes08/To-Do-machine",
+  
   "devDependencies": {
     "gh-pages": "^6.1.0"
-  }
+  },
+  "homepage": "/Users/hugoduque/Desktop/Front-End/React-Start/curso-react-intro/build/"
 }
